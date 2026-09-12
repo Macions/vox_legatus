@@ -1,6 +1,7 @@
 version: "3.8"
 
 services:
+  # ═══════════════ STARY SYSTEM ═══════════════
   backend:
     build: ./vox_legatus
     container_name: vox-legatus-backend
@@ -20,6 +21,26 @@ services:
     volumes:
       - pgdata:/var/lib/postgresql/data
 
+  # ═══════════════ NOWY SYSTEM ═══════════════
+  new-backend:
+    build:
+      context: ../mparlament-backend
+      args:
+        FRONTEND_SLUG: Macions/mparlament
+        FRONTEND_REF: main
+    container_name: mparlament-backend
+    expose:
+      - "4000"
+    environment:
+      MPARLAMENT_PUBLIC_ORIGIN: https://parlamentmlodych.pl
+      MPARLAMENT_JWT_SECRET: oEanhNDikecv01ZVJwL95UPAIQtWl7TGRqpKfubgHr8xdBs3jzSC6y2mFXMYO4
+      MPARLAMENT_SEED_ON_START: "true"
+    volumes:
+      - mparlament-data:/app/data
+      - mparlament-uploads:/app/uploads
+    restart: unless-stopped
+
+  # ═══════════════ NGINX ═══════════════
   nginx:
     image: nginx:stable
     container_name: vox-legatus-nginx
@@ -32,7 +53,9 @@ services:
       - certbot-etc:/etc/letsencrypt
     depends_on:
       - backend
+      - new-backend
 
+  # ═══════════════ CERTBOT ═══════════════
   certbot:
     image: certbot/certbot
     container_name: vox-legatus-certbot
@@ -43,3 +66,5 @@ services:
 volumes:
   pgdata:
   certbot-etc:
+  mparlament-data:
+  mparlament-uploads:
