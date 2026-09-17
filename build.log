@@ -1,0 +1,101 @@
+nohup: ignoring input
+time="2026-09-14T09:15:23Z" level=warning msg="/srv/apps/vox_legatus/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+Compose can now delegate builds to bake for better performance.
+ To do so, set COMPOSE_BAKE=true.
+#0 building with "default" instance using docker driver
+
+#1 [new-backend internal] load build definition from Dockerfile
+#1 transferring dockerfile: 3.02kB done
+#1 DONE 0.0s
+
+#2 [new-backend] resolve image config for docker-image://docker.io/docker/dockerfile:1
+#2 DONE 0.3s
+
+#3 [new-backend] docker-image://docker.io/docker/dockerfile:1@sha256:ecfaec9ed6d810b56388c508f4121597bfbba70d41a6dfeee4d8cad5f295fc32
+#3 CACHED
+
+#4 [new-backend internal] load metadata for docker.io/library/node:22-bookworm-slim
+#4 ...
+
+#5 [new-backend internal] load metadata for docker.io/library/python:3.12-slim
+#5 DONE 0.6s
+
+#4 [new-backend internal] load metadata for docker.io/library/node:22-bookworm-slim
+#4 DONE 0.6s
+
+#6 [new-backend internal] load .dockerignore
+#6 transferring context: 493B done
+#6 DONE 0.0s
+
+#7 [new-backend runtime  1/12] FROM docker.io/library/python:3.12-slim@sha256:78387bc3881b8273120a12ebe6c1ab22b018ccc2c9adf565ae1ac9b536e184ea
+#7 DONE 0.0s
+
+#8 [new-backend frontend 1/6] FROM docker.io/library/node:22-bookworm-slim@sha256:83f487e0a63425e5b4d146fb5e5be574bcbe1b7b843d3ebafdd95eaf7767a7e5
+#8 DONE 0.0s
+
+#9 [new-backend internal] load build context
+#9 transferring context: 19.01kB 0.0s done
+#9 DONE 0.0s
+
+#10 [new-backend frontend 5/6] RUN npm ci
+#10 CACHED
+
+#11 [new-backend frontend 2/6] RUN apt-get update  && apt-get install -y --no-install-recommends git ca-certificates  && rm -rf /var/lib/apt/lists/*
+#11 CACHED
+
+#12 [new-backend frontend 4/6] RUN git init -q .  && git remote add origin "https://github.com/Macions/mparlament.git"  && git fetch --depth 1 origin "main"  && git checkout -q FETCH_HEAD
+#12 CACHED
+
+#13 [new-backend frontend 3/6] WORKDIR /build
+#13 CACHED
+
+#14 [new-backend frontend 6/6] RUN npm run build -- --base=/newapp/
+#14 CACHED
+
+#15 [new-backend runtime  3/12] RUN pip install --no-cache-dir "poetry==2.1.1"
+#15 CACHED
+
+#16 [new-backend runtime  6/12] COPY alembic.ini ./
+#16 CACHED
+
+#17 [new-backend runtime  2/12] WORKDIR /app
+#17 CACHED
+
+#18 [new-backend runtime  4/12] COPY pyproject.toml poetry.lock ./
+#18 CACHED
+
+#19 [new-backend runtime  5/12] RUN poetry config virtualenvs.create false  && poetry install --only main --no-root
+#19 CACHED
+
+#20 [new-backend runtime  7/12] COPY migrations ./migrations
+#20 CACHED
+
+#21 [new-backend runtime  8/12] COPY scripts ./scripts
+#21 CACHED
+
+#22 [new-backend runtime  9/12] COPY src ./src
+#22 DONE 0.1s
+
+#23 [new-backend runtime 10/12] COPY docker/entrypoint.sh /usr/local/bin/entrypoint.sh
+#23 DONE 0.0s
+
+#24 [new-backend runtime 11/12] COPY --from=frontend /build/dist ./static
+#24 DONE 0.0s
+
+#25 [new-backend runtime 12/12] RUN chmod +x /usr/local/bin/entrypoint.sh  && mkdir -p /app/data /app/uploads/resolutions  && useradd --create-home --uid 10001 app  && chown -R app:app /app
+#25 DONE 0.3s
+
+#26 [new-backend] exporting to image
+#26 exporting layers 0.1s done
+#26 writing image sha256:17b295a57ff1484da9d4c1ac848f7ff153b0e932d53099d31e437f27e1042b68 done
+#26 naming to docker.io/library/vox_legatus-new-backend done
+#26 DONE 0.1s
+
+#27 [new-backend] resolving provenance for metadata file
+#27 DONE 0.0s
+ new-backend  Built
+time="2026-09-14T09:15:25Z" level=warning msg="/srv/apps/vox_legatus/docker-compose.yml: the attribute `version` is obsolete, it will be ignored, please remove it to avoid potential confusion"
+ Container mparlament-backend  Recreate
+ Container mparlament-backend  Recreated
+ Container mparlament-backend  Starting
+ Container mparlament-backend  Started
