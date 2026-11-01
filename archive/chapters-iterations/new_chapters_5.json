@@ -1,0 +1,217 @@
+[
+  {
+    "id": "ch_1",
+    "title": "Rozdział 1. Wprowadzenie i przepisy ogólne",
+    "articles": [
+      {
+        "id": "art_1",
+        "number": "Art. 1",
+        "content": "1 Niniejsza uchwała postuluje strategiczne ramy, cele oraz kierunki działań w zakresie budowy rozproszonego bezpieczeństwa energetycznego Rzeczypospolitej Polskiej, opierającego się na decentralizacji, cyfryzacji oraz fizycznej i cybernetycznej odporności lokalnej infrastruktury krytycznej na zagrożenia asymetryczne, hybrydowe oraz klimatyczne Uchwała postuluje wyznaczenie zasad tworzenia i funkcjonowania Lokalnych Hubów Odporności Energetycznej, zrównoważonego rozwoju instalacji agrofotowoltaicznych oraz integracji biogazowni w ramach stabilizacji sezonowej, a także ustanawia ramy dla innowacyjnych mechanizmów finansowania transformacji na szczeblu samorządowym."
+      },
+      {
+        "id": "art_2",
+        "number": "Art. 2",
+        "content": "Głównymi celami uchwały są:\n1) uniezależnienie kluczowych obiektów użyteczności publicznej – w szczególności jednostek Ochotniczej Straży Pożarnej, Państwowej Straży Pożarnej, placówek medycznych oraz infrastruktury wodno-kanalizacyjnej – od awarii Krajowego Systemu Elektroenergetycznego, poprzez budowę w pełni autonomicznych mikrosieci zdolnych do pracy wyspowej i procedury czarnego startu;\n2) wzmocnienie odporności państwa na cyberataki i zakłócenia dostaw energii poprzez wdrożenie rygorystycznego standardu „Odpornej Mikrosieci” oraz wymogów dyrektywy NIS2 dla systemów sterowania lokalną generacją;\n3) ochrona potencjału rolniczego i suwerenności żywnościowej państwa poprzez prawne uregulowanie i wsparcie inwestycyjne systemów agrofotowoltaicznych, harmonijnie łączących produkcję rolną z generacją energii oraz optymalizacją retencji wody;\n4) zapewnienie długoterminowej stabilizacji sezonowej systemu elektroenergetycznego poprzez rozwój gminnych biometanowni i układów mikrokogeneracyjnych;\n5) odblokowanie potencjału elastyczności lokalnych sieci dystrybucyjnych poprzez integrację technologii mobilnego magazynowania energii, inteligentnych systemów zarządzania oraz ułatwienia w zakresie elastycznych umów przyłączeniowych;\n6) stworzenie stabilnego otoczenia regulacyjnego dla nowych instrumentów finansowania infrastruktury komunalnej, w tym modelu ESCO, Gminnych Obligacji Energetycznych oraz powoływania Wirtualnych Elektrowni Lokalnych i Lokalnych Rynków Energii."
+      },
+      {
+        "id": "art_3",
+        "number": "Art. 3",
+        "content": "Ilekroć w niniejszej uchwale jest mowa o:\n1) LHOE – rozumie się przez to Lokalne Huby Odporności Energetycznej, będące w pełni autonomicznymi mikrosieciami o statusie infrastruktury krytycznej, łączącymi instalacje fotowoltaiczne, magazyny energii oraz ekologiczne agregaty rezerwowe, zlokalizowanymi m.in. w remizach OSP, szkołach i szpitalach powiatowych;\n2) KSE – rozumie się przez to Krajowy System Elektroenergetyczny;\n3) LRE – rozumie się przez to Lokalne Rynki Energii, funkcjonujące w obrębie obszaru zasilania jednego Głównego Punktu Zasilającego;\n4) GPZ – rozumie się przez to Główny Punkt Zasilający;\n5) OSP - rozumie się przez to Ochotniczą Straż Pożarną;\n6) WEL – rozumie się przez to Wirtualne Elektrownie Lokalne, będące zagregowanymi systemami rozproszonych źródeł energii;\n7) instalacji agrofotowoltaicznej (Agri-PV) – rozumie się przez to instalację wykorzystującą energię promieniowania słonecznego do produkcji energii elektrycznej, zlokalizowaną na terenie wykorzystywanym jednocześnie do prowadzenia działalności rolniczej, przy zachowaniu podstawowej funkcji rolniczej tego terenu;\n8) PV – rozumie się przez to instalacje fotowoltaiczne;\n9) Odporna Mikrosieć– rozumie się przez to rygorystyczny standard techniczny wymagający automatycznego zrzutu obciążenia oraz pełnej izolacji teleinformatycznej typu air-gapped od zewnętrznej sieci internetowej;\n10) Сzarny start – rozumie się przez to zdolność obiektu lub mikrosieci do wznowienia pracy i odbudowy napięcia po całkowitym zaniku zasilania z sieci elektroenergetycznej, bez pomocy zewnętrznych źródeł;\n11) grid-forming – rozumie się przez to zaawansowane inwertery zdolne do samodzielnego wygenerowania napięcia i stabilizacji częstotliwości sieci od zera, co jest kluczowe przy procedurze czarnego startu;\n12) grid-following – rozumie się przez to standardowe inwertery (falowniki), które do swojej pracy wymagają synchronizacji z istniejącym napięciem i częstotliwością zewnętrznej sieci;\n13) SZR – rozumie się przez to układy Samoczynnego Załączania Rezerwy;\n14) V2X – rozumie się przez to technologię, umożliwiającą wykorzystanie baterii elektrycznych pojazdów komunalnych i ratowniczych jako mobilnych magazynów energii zasilających obiekty kryzysowe;\n15) V2G/V2B – rozumie się przez to powiązane z V2X technologie umożliwiające dwukierunkowy przepływ energii pomiędzy pojazdem a siecią lub budynkiem;\n16) EMS – rozumie się przez to systemy zarządzania energią SCADA – rozumie się przez to systemy sterowania, nadzoru i zbierania danych;\n17) VPP – rozumie się przez to platformy agregacyjne i wirtualne elektrownie ;\n18) mikrokogeneracji – rozumie się przez to proces równoczesnego wytwarzania energii elektrycznej i użytkowego ciepła w skojarzeniu, w jednostkach o niewielkiej mocy;\n19) P2P – rozumie się przez to model bezpośredniej wymiany lub handlu energią pomiędzy jej wytwórcami a odbiorcami końcowymi, z pominięciem tradycyjnych spółek obrotu;\n20) ESCO – rozumie się przez to model biznesowy, w którym inwestor finansuje budowę hubów, a koszty zwracają się m.in. z oszczędności energii, arbitrażu cenowego oraz udziału w Rynku Mocy;\n21) OSD – rozumie się przez to Operatorów Systemów Dystrybucyjnych;\n22) NFOŚiGW – rozumie się przez to Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej;\n23) ODR – rozumie się przez to Ośrodki Doradztwa Rolniczego;\n24) CEEAG – unijne wytyczne dotyczące pomocy państwa na rzecz ochrony klimatu, środowiska oraz celów energetycznych;\n25) AMS – rozumie się przez to unijny System Monitorowania Obszarów (Area Monitoring System) zarządzany przez ARiMR;\n26) NIS2 – rozumie się przez to unijną dyrektywę w sprawie środków na rzecz wysokiego wspólnego poziomu cyberbezpieczeństwa na terytorium Unii;\n27) ISO/IEC 27001 – rozumie się przez to międzynarodową normę określającą wymagania dla systemów zarządzania bezpieczeństwem informacji;"
+      }
+    ]
+  },
+  {
+    "id": "ch_2",
+    "title": "Rozdział 2. Lokalne Huby Odporności Energetycznej",
+    "articles": [
+      {
+        "id": "art_4",
+        "number": "Art. 4",
+        "content": "1 Postuluje się wdrożenie ogólnopolskiej doktryny „Rozproszonego Bezpieczeństwa Energetycznego”, opartej na budowie Lokalnych Hubów Odporności Energetycznej, rozumianych jako w pełni autonomiczne mikrosieci, zdolne do długotrwałej pracy wyspowej w warunkach załamania Krajowego Systemu Elektroenergetycznego.\n2. Wnioskuje się o utworzenie zintegrowanego Krajowego Rejestru LHOE, nadającego priorytetowy status inwestycyjny i ochronny obiektom wytypowanym przez jednostki samorządu terytorialnego we współpracy z Rządowym Centrum Bezpieczeństwa, w szczególności:\n1) węzłowym remizom Ochotniczych Straży Pożarnych oraz komendom Państwowej Straży Pożarnej;\n2) szpitalom powiatowym i specjalistycznym placówkom ratunkowym;\n3) stacjom uzdatniania wody, ujęciom głębinowym oraz głównym przepompowniom ścieków;\n4) wyznaczonym centrom zarządzania kryzysowego i punktom ewakuacyjnym."
+      },
+      {
+        "id": "art_5",
+        "number": "Art. 5",
+        "content": "Postuluje się, aby instalacje posiadające status LHOE spełniały rygorystyczny standard „Odpornej Mikrosieci”, wymagający:\n1) wdrożenia układów automatycznego zrzutu obciążenia, które w trybie awaryjnym natychmiast odcinają zasilanie obwodów podrzędnych, priorytetyzując urządzenia podtrzymujące życie, łączność ratunkową oraz pompy obiegowe;\n2) zastosowania mechanizmów umożliwiających w trybie awaryjnym natychmiastowe, fizyczne odcięcie lokalnych systemów zarządzania od zewnętrznych sieci teleinformatycznych."
+      },
+      {
+        "id": "art_6",
+        "number": "Art. 6",
+        "content": "1. Wnioskuje się o rozszerzenie funkcjonalności LHOE o koncepcję Mobilnej Rezerwy Mocy, polegającą na strukturalnej integracji Hubów z flotą elektrycznych pojazdów komunalnych oraz ratowniczych, wykorzystujących technologię V2X.\n2. Rekomenduje się, aby w sytuacjach skrajnego deficytu energii, zelektryfikowane pojazdy komunalne posiadające baterie o dużej pojemności, pełniły rolę „mobilnych magazynów energii”. Poprzez dedykowane, dwukierunkowe przyłącza awaryjne powinny one stanowić wsparcie energetyczne dla mniejszych węzłów LHOE, takich jak punkty ewakuacyjne czy sztaby kryzysowe, lub zasilać wyłącznie wydzielone obwody podtrzymujące życie w obiektach wielkoskalowych."
+      },
+      {
+        "id": "art_7",
+        "number": "Art. 7",
+        "content": "1. Postuluje się powołanie we współpracy z Ministerstwem Obrony Narodowej programu szkoleniowego „Energetyczna Obrona Terytorialna”.\n2. Program, o którym mowa w ust. 1, powinien być skierowany do żołnierzy Wojsk Obrony Terytorialnej oraz druhów OSP i obejmować praktyczne certyfikacje z nadzoru nad systemami automatyki SZR, obsługi systemów pracy wyspowej, bezpiecznego uruchamiania procedur awaryjnych oraz przywracania zasilania krytycznego w warunkach chaosu infrastrukturalnego.\n3. Rekomenduje się, aby każdy hub, w szczególności remizy OSP, posiadał terminale niezależnej łączności satelitarnej wpięte bezpośrednio w obwód zasilania gwarantowanego, tworząc gęstą sieć komunikacyjną wolną od uwarunkowań lokalnych stacji bazowych."
+      },
+      {
+        "id": "art_8",
+        "number": "Art. 8",
+        "content": "1. Wnioskuje się, aby ze względów pożarowych i strategicznych, wielkoskalowe magazyny energii instalowane w ramach LHOE, zwłaszcza w obiektach użyteczności publicznej, opierały się na technologiach o podwyższonym bezpieczeństwie termicznym, w szczególności ogniwach litowo-żelazowo-fosforanowych lub wschodzącej technologii ogniw sodowo-jonowych , z racji ich niezależności od importu deficytowego litu i kobaltu.\n2. Postuluje się, aby kluczowym elementem każdego huba były inwertery z funkcją „grid-forming”, potrafiące - w przeciwieństwie do standardowych falowników „grid-following”, samodzielnie wygenerować napięcie i ustabilizować częstotliwość sieci od zera, co stanowi warunk konieczny udanego czarnego startu całego obiektu po całkowitym załamaniu KSE.\n3. Rekomenduje się, aby jako ostateczne, długoterminowe źródło rezerwowe stosować systemy mikrokogeneracyjne, zasilane lokalnie produkowanym biometanem."
+      },
+      {
+        "id": "art_9",
+        "number": "Art. 9",
+        "content": "Zauważa się, że jednostki samorządu terytorialnego nie dysponują wystarczającymi środkami na samodzielną realizację infrastruktury LHOE. W związku z tym postuluje się utworzenie mechanizmu finansowego opartego na bezzwrotnych dotacjach z Funduszu Modernizacyjnego oraz środków pochodzących z unijnego systemu handlu emisjami (ETS), zarządzanych przez Narodowy Fundusz Ochrony Środowiska i Gospodarki Wodnej."
+      },
+      {
+        "id": "art_10",
+        "number": "Art. 10",
+        "content": "1. Wnioskuje się o wprowadzenie i uregulowanie na poziomie gminnym mechanizmu ESCO dla hubów energetycznych.\n2. Mechanizm określony w pkt. 1 zakłada, że prywatny lub państwowy inwestor w całości lub częściowo finansuje budowę LHOE, a koszty inwestycji zwracają się z czasem poprzez:\n1) arbitraż cenowy i sprzedaż rynkową części nadwyżek energii wyprodukowanej przez hub w czasie pokoju;\n2) świadczenie usług systemowych i elastyczności na rzecz Operatorów Systemów Dystrybucyjnych;\n3) udział zagregowanych LHOE w Rynku Mocy.\n3. Postuluje się, aby kluczowym warunkiem umów w modelu ESCO dla infrastruktury krytycznej było ustanowienie obligatoryjnej „żelaznej rezerwy pojemności”, na poziomie 30–50% nominalnej pojemności magazynu energii. Część ta musi być trwale wyłączona z komercyjnego obrotu rynkowego i utrzymywana w ciągłej gotowości wyłącznie na potrzeby awaryjnej pracy wyspowej obiektu LHOE."
+      },
+      {
+        "id": "art_11",
+        "number": "Art. 11",
+        "content": "Postuluje się umożliwienie samorządom emitowania dedykowanych „Zielonych Obligacji Odpornościowych” z gwarancjami państwowymi Banku Gospodarstwa Krajowego, z których środki mogą być przeznaczone wyłącznie na rozbudowę mikrosieci wyspowych."
+      },
+      {
+        "id": "art_12",
+        "number": "Art. 12",
+        "content": "1 Rekomenduje się wdrożenie programu LHOE w modelu fazowym, opartym na priorytetyzacji zagrożeń:\n1) Faza Pilotażowa (lata 2028-2031): Budowa 16 modelowych hubów (po 1 na województwo) w celu wypracowania najlepszych rozwiązań praktycznych;\n2) Faza I (lata 2032-2037): Obligatoryjne audyty energetyczne infrastruktury krytycznej na szczeblu powiatowym oraz budowa LHOE w węzłowych jednostkach Państwowej i Ochotniczej Straży Pożarnej oraz szpitalach powiatowych;\n3) Faza II (lata 2038-2045): Integracja stacji uzdatniania wody, oczyszczalni ścieków oraz budynków oświatowych pełniących rolę centrów ewakuacyjnych.\n2. Aby zminimalizować koszty projektowe i przyspieszyć realizację inwestycji przez gminy, apeluje się do Ministerstwa Klimatu i Środowiska o opracowanie i bezpłatne udostępnienie Projektów Typowych - wzorcowych architektur mikrosieci dla 3 standardowych wielkości hubów, uwzględniających sprawdzone schematy automatyki SZR oraz protokoły cyberbezpieczeństwa."
+      },
+      {
+        "id": "art_13",
+        "number": "Art. 13",
+        "content": "Postuluje się wdrożenie ścieżki szybkiej certyfikacji dla polskich firm instalacyjnych realizujących obiekty LHOE. Certyfikat „Autoryzowanego Instalatora Infrastruktury Krytycznej” powinien być wydawany po rygorystycznym szkoleniu pod egidą Urzędu Dozoru Technicznego, gwarantując najwyższą jakość montażu."
+      },
+      {
+        "id": "art_14",
+        "number": "Art. 14",
+        "content": "Wnioskuje się o technologiczne sprzęgnięcie inwestycji w Lokalne Huby Odporności ze strategiczną modernizacją lokalnych systemów ciepłowniczych."
+      },
+      {
+        "id": "art_15",
+        "number": "Art. 15",
+        "content": "Postuluje się, aby nadwyżki energii elektrycznej produkowanej przez huby fotowoltaiczne w miesiącach letnich – zamiast być wyłączane przez OSD w ramach zjawiska odgórnych redukcji – były przekierowywane do wielkoskalowych pomp ciepła oraz buforów wodnych zlokalizowanych przy gminnych ciepłowniach w celu bieżącego zaspokojenia zapotrzebowania na ciepłą wodę użytkową dla mieszkańców."
+      }
+    ]
+  },
+  {
+    "id": "ch_3",
+    "title": "Rozdział 3. Rozwój instalacji agrofotowoltaicznych",
+    "articles": [
+      {
+        "id": "art_16",
+        "number": "Art. 16",
+        "content": "1. Postuluje się wprowadzenie do ustawy o odnawialnych źródłach energii oraz ustawy o ochronie gruntów rolnych i leśnych definicji legalnej „instalacji agrofotowoltaicznej”. Pojęcie to powinno być rozumiane jako system podwójnego, synergicznego wykorzystania przestrzeni, w którym produkcja rolna pozostaje działalnością nadrzędną – zarówno pod względem przestrzennym, jak i plonotwórczym – a generacja energii elektrycznej z promieniowania słonecznego stanowi działalność z nią zintegrowaną i poboczną.\n2. Aby wyeliminować zjawisko pozorowania działalności rolniczej i zabezpieczyć ład przestrzenny oraz system podatkowy, wnioskuje się, aby prawna kwalifikacja obiektu jako instalacji Agri-PV wymagała obligatoryjnego i łącznego spełnienia następujących kryteriów mierzalnych:\n1) Kryterium utrzymania potencjału rolniczego: Gwarancja utrzymania rocznego plonu na poziomie nie niższym niż 70% średniego plonu referencyjnego, z wyłączeniem lat, w których na danym obszarze wystąpiły udokumentowane niekorzystne zjawiska atmosferyczne w rozumieniu przepisów o ubezpieczeniach upraw rolnych.;\n2) Kryterium maksymalnej zajętości terenu: konstrukcja wsporcza paneli fotowoltaicznych oraz niezbędna infrastruktura towarzysząca (np. falowniki, drogi dojazdowe, stacje transformatorowe) nie mogą trwale wyłączać z bezpośredniej produkcji rolnej więcej niż 10–15% całkowitej powierzchni obszaru objętego instalacją;\n3) Kryterium kompatybilności agrotechnicznej: na etapie procedury administracyjnej inwestor zobowiązany jest przedstawić projekt agrotechniczny pozytywnie zaopiniowany przez uprawnionego doradcę rolniczego lub właściwy Ośrodek Doradztwa Rolniczego. Dokument ten musi potwierdzać, że wybrana technologia PV jest dostosowana do specyfiki planowanych upraw oraz umożliwia bezkolizyjną pracę maszyn rolniczych."
+      },
+      {
+        "id": "art_17",
+        "number": "Art. 17",
+        "content": "Wnioskuje się o wprowadzenie gwarancji ustawowych, dzięki którym rolnicy instalujący systemy Agri-PV na swoich gruntach:\n1) zachowują prawo do płatności obszarowych i dopłat bezpośrednich w ramach Wspólnej Polityki Rolnej,\n2) są zwolnieni z kosztownej i długotrwałej procedury odrolnienia gruntów dla obszaru objętego instalacją.\n3) podlegają sprawiedliwym zasadom opodatkowania – w miejsce standardowego podatku od nieruchomości, postuluje się wprowadzenie zryczałtowanej stawki podatku „Agro-Energetycznego” uzależnionej od zainstalowanej mocy, stanowiącej dochód jednostki samorządu terytorialnego, przy jednoczesnym zachowaniu podatku rolnego dla samej powierzchni gruntu."
+      },
+      {
+        "id": "art_18",
+        "number": "Art. 18",
+        "content": "Rekomenduje się, aby wsparciem ze środków publicznych, w tym z funduszy celowych NFOŚiGW oraz Ministerstwa Rolnictwa i Rozwoju Wsi, objęte były wyłącznie instalacje Agri-PV spełniające ściśle określone kryteria technologiczne, nieutrudniające operowania ciężkim sprzętem rolniczym, w szczególności:\n1) instalacje pionowe pełniące funkcję miedz lub ogrodzeń;\n2) instalacje nadwieszone na wysokości umożliwiającej swobodny przejazd maszyn rolniczych;\n3) systemy nadążne, dostosowujące kąt nachylenia paneli do potrzeb naświetlenia upraw w różnych fazach wegetacji.\n4) instalacje międzyrzędowe, w których rzędy paneli fotowoltaicznych są rozstawione na odległość gwarantującą swobodny i bezkolizyjny przejazd maszyn rolniczych dostosowanych do profilu danej uprawy."
+      },
+      {
+        "id": "art_19",
+        "number": "Art. 19",
+        "content": "Wnioskuje się o modyfikację Planu Strategicznego dla Wspólnej Polityki Rolnej poprzez utworzenie dedykowanego ekoschematu dla instalacji agrofotowoltaicznych. Ekoschemat ten powinien stanowić rekompensatę finansową za prowadzenie działalności rolniczej w warunkach podwyższonego stopnia trudności agrotechnicznej, jednocześnie premiując pozytywny wpływ instalacji Agri-PV na środowisko."
+      },
+      {
+        "id": "art_20",
+        "number": "Art. 20",
+        "content": "Postuluje się promowanie integracji dotowanych systemów Agri-PV z lokalną infrastrukturą małej retencji. Rekomenduje się, aby dodatkowo punktowanym kryterium przy ubieganiu się o środki publiczne było zasilanie zautomatyzowanych, bezemisyjnych systemów nawadniania kropelkowego upraw za pomocą wyprodukowanej na miejscu energii. Stanowi to odpowiedź na problem postępującej suszy, łącząc produkcję energii ze wsparciem systemów optymalizacji zużycia wody w rolnictwie."
+      },
+      {
+        "id": "art_21",
+        "number": "Art. 21",
+        "content": "1 Wnioskuje się o utworzenie i sfinansowanie przez Narodowe Centrum Badań i Rozwoju wieloletniego programu badawczego „Agri-Lab PL”, realizowanego w partnerstwie z polskimi uczelniami przyrodniczymi i instytutami agrotechnicznymi.\n2. Celem programu badawczego powinno być precyzyjne skatalogowanie i zbadanie wpływu częściowego zacienienia oraz mikroklimatu tworzonego przez panele Agri-PV na kluczowe dla polskiej gospodarki uprawy, w tym:\n1) sady jabłoniowe i plantacje owoców miękkich dla których panele mogą stanowić substytut siatek przeciwgradowych i chronić przed poparzeniami słonecznymi;\n2) uprawy warzyw gruntowych;\n3) chmielnictwo i winiarstwo."
+      },
+      {
+        "id": "art_22",
+        "number": "Art. 22",
+        "content": "Zauważa się, że instalacje Agri-PV są technologicznie bardziej wymagające i droższe inwestycyjnie od tradycyjnych farm naziemnych. W związku z tym postuluje się powołanie przez Ministerstwo Rolnictwa i Rozwoju Wsi we współpracy z Narodowym Funduszem Ochrony Środowiska i Gospodarki Wodnej dedykowanego programu wsparcia „Agro-Tarcza Energetyczna”."
+      },
+      {
+        "id": "art_23",
+        "number": "Art. 23",
+        "content": "1. Wnioskuje się o wdrożenie systemu elastycznego, premiowanego dofinansowania kapitałowego dla instalacji Agri-PV. Wsparcie to powinno być uwarunkowane integracją instalacji z systemami zwiększającymi autokonsumpcję i elastyczność sieci, w szczególności poprzez:\n1) system punktowy lub wyższe poziomy dofinansowania dla projektów integrujących dowolne formy magazynowania energii, w tym bateryjne o minimalnej pojemności np. 10% mocy zainstalowanej;\n2) zrównanie w prawach do dotacji klasycznych magazynów bateryjnych z innowacyjnymi metodami zwiększania elastyczności, takimi jak magazynowanie termiczne;\n3) premiowanie projektów wykorzystujących systemy zarządzania energią, które automatycznie przesuwają czas pracy energochłonnych urządzeń rolniczych na godziny szczytowej produkcji ze słońca"
+      },
+      {
+        "id": "art_24",
+        "number": "Art. 24",
+        "content": "1 Proponuje się uruchomienie przez NFOŚiGW oraz Bank Gospodarstwa Krajowego kompleksowego programu wsparcia, zaprojektowanego w zgodzie z unijnymi wytycznymi w sprawie pomocy państwa na ochronę klimatu i środowiska.\n2. Program ten powinien oferować:\n1) hybrydowe instrumenty finansowe (pożyczki z opcją częściowego umorzenia lub dotacje kapitałowe) uzależnione od skomplikowania technologicznego instalacji Agri-PV (np. wyższe wsparcie dla konstrukcji nadwieszonych, najdroższych inwestycyjnie);\n2) uproszczony mechanizm zapobiegania nadużyciom i weryfikacji trwałości projektu: utrzymanie wsparcia przez 5-letni okres trwałości projektu weryfikowane będzie poprzez coroczne udokumentowanie prowadzenia produkcji rolnej pod panelami. Weryfikacja następować będzie na podstawie przedkładanych dowodów sprzedaży płodów rolnych, a w przypadku produkcji na użytek własny gospodarstwa – na podstawie oświadczenia o wykorzystaniu plonów na użytek własny, wraz ze wskazaniem sposobu ich zagospodarowania (np. przetwarzanie, skarmianie zwierząt). W przypadku zaprzestania produkcji rolnej z winy inwestora przed upływem okresu trwałości, zwrot udzielonego wsparcia lub cofnięcie umorzenia następuje proporcjonalnie do brakującego okresu trwałości projektu."
+      },
+      {
+        "id": "art_25",
+        "number": "Art. 25",
+        "content": "1. Odpowiadając na problem masowych odmów przyłączania nowych źródeł OZE z uwagi na wyczerpanie przepustowości sieci na terenach wiejskich, postuluje się uszczelnienie i powszechne wdrożenie funkcjonujących w Ustawie - Prawo Energetyczne elastycznych umów o przyłączenie do sieci.\n2. Mechanizm ten powinien obligować OSD do wydania warunków przyłączenia pod warunkiem sprzętowego lub programowego zablokowania eksportu energii do sieci wysokich i średnich napięć w godzinach szczytu.\n3. Aby nie powodować strat wyprodukowanej energii, ograniczenie eksportu musi zostać powiązane z ustawowym udostępnieniem rolnikom mechanizmów lokalnego handlu energią, umożliwiających bezpośrednią sprzedaż nadwyżek lokalnym odbiorcom w ramach klastrów energii."
+      },
+      {
+        "id": "art_26",
+        "number": "Art. 26",
+        "content": "Wnioskuje się o maksymalne uproszczenie procedur administracyjnych oraz zniesienie nadmiernych opłat regulacyjnych dla funkcjonującej w prawie Linii Bezpośredniej w zastosowaniach rolniczych."
+      },
+      {
+        "id": "art_27",
+        "number": "Art. 27",
+        "content": "Postuluje się wprowadzenie dedykowanych programów doradczych i dotacyjnych wspierających wykorzystanie istniejącego mechanizmu współdzielenia przyłącza dla klastrów wiejskich i spółdzielni energetycznych, a także maksymalne uproszczenie procedur i zwolnienie tych podmiotów z zaporowych opłat przyłączeniowych."
+      },
+      {
+        "id": "art_28",
+        "number": "Art. 28",
+        "content": "1. Wielkoskalowe farmy fotowoltaiczne trwale wyłączają grunty z produkcji i podlegają rygorystycznym przepisom planistycznym. Wnioskuje się, aby instalacje spełniające wymogi definicyjne Agri-PV były traktowane prawnie jako „infrastruktura techniczna wspierająca produkcję rolną” i podlegały uproszczonej ścieżce planistycznej.\n2. Aby zabezpieczyć ład przestrzenny i wykluczyć nadużycia, postuluje się, by ułatwienia te przysługiwały wyłącznie instalacjom o określonej maksymalnej mocy zainstalowanej oraz zlokalizowanym w promieniu nie większym niż 500 metrów od istniejących zabudowań gospodarczych realizowanym przez podmioty posiadające udokumentowany status „aktywnego rolnika” nieprzerwanie od co najmniej 3 lat.\n3. Zaprzestanie produkcji rolnej na obszarze instalacji Agri-PV lub utrata statusu aktywnego rolnika przed upływem 5 lat od uruchomienia instalacji, z wyłączeniem zdarzeń losowych i siły wyższej, skutkuje natychmiastową utratą statusu Agri-PV, obowiązkiem zwrotu proporcjonalnej części uzyskanych dotacji oraz objęciem instalacji standardową stawką podatku od nieruchomości od miesiąca następującego po zaprzestaniu produkcji."
+      }
+    ]
+  },
+  {
+    "id": "ch_4",
+    "title": "Rozdział 4. Stabilizacja Sezonowa, Rozwój Biogazowni i Cyfrowa Integracja Rynku Lokalnego",
+    "articles": [
+      {
+        "id": "art_29",
+        "number": "Art. 29",
+        "content": "1. W celu zniwelowania zjawiska sezonowej zmienności generacji ze źródeł zależnych od warunków atmosferycznych oraz zagwarantowania zasilania Lokalnych Hubów Odporności Energetycznej w miesiącach zimowych, postuluje się wdrożenie Programu Rozwoju Gminnych Mikrobiogazowni (produkujących energię elektryczną i ciepło w skojarzeniu) oraz wielkoskalowych Biometanowni, jako komplementarnych jednostek wytwórczych zapewniających stabilną moc podstawową.\n2. Wnioskuje się o wprowadzenie ułatwień proceduralnych w postaci tzw. szybkiej ścieżki inwestycyjnej, obligującej organy administracji do priorytetowego procedowania i wydania decyzji o środowiskowych uwarunkowaniach. Ułatwienia te dedykowane są małym biogazowniom, rozumianym jako biogazowanie o zainstalowanej mocy do 500 kW, zasilanym wyłącznie lokalnymi substratami odpadowymi i spełniającym rygorystyczne normy hermetyzacji procesów."
+      },
+      {
+        "id": "art_30",
+        "number": "Art. 30",
+        "content": "1. Postuluje się powołanie standardu „Hybrydowego Węzła Odporności”, łączącego instalacje Agri-PV, lokalną mikrobiogazownie oraz magazyn energii LHOE.\n2. W warunkach pracy wyspowej lub kryzysu energetycznego, mikrobiogazownia, o której mowa w ust. 1, pełni funkcję nadrzędnego źródła ciągłego, zasilając obwody krytyczne huba oraz doładowując stacjonarne magazyny elektrochemiczne w okresach braku instalacji słonecznej."
+      },
+      {
+        "id": "art_31",
+        "number": "Art. 31",
+        "content": "1. Wnioskuje się o wdrożenie krajowego standardu Wirtualnych Elektrowni Lokalnych dedykowanego jednostkom samorządu terytorialnego i spółdzielniom energetycznym.\n2. Standard, o którym mowa w ust. 1, zakłada cyfrową integrację rozproszonych zasobów LHOE, instalacji Agri-PV, biogazowni oraz sterowanych odbiorników komunalnych w jeden skoordynowany organizm energetyczny, zarządzany przez zautomatyzowane algorytmy predykcyjne, uwzględniające prognozy pogody, dynamiczne ceny energii oraz stany naładowania magazynów.\n3. Postuluje się wypracowanie mechanizmów regulacyjnych znoszących bariery wejścia dla zagregowanych WEL na rynek usług elastyczności OSD oraz rynek mocy, w tym poprzez tworzenie dedykowanych segmentów aukcyjnych dla lokalnych źródeł bilansujących. Pozwoli to na generowanie bezpośredniego dochodu dla gmin i społeczności energetycznych, przy zachowaniu zgodności z unijnymi zasadami konkurencyjności."
+      },
+      {
+        "id": "art_32",
+        "number": "Art. 32",
+        "content": "W celu ochrony suwerenności danych oraz odporności na cyberataki o charakterze hybrydowym, postuluje się wprowadzenie wymogu, aby wszelkie systemy SCADA, EMS oraz platformy agregacyjne VPP sterujące infrastrukturą LHOE i powiązanymi źródłami wytwórczymi:\n1) spełniały wymogi unijnej dyrektywy NIS2 oraz międzynarodowej normy ISO/IEC 27001, a także podlegały regularnym audytom akredytowanych jednostek ds. cyberbezpieczeństwa;\n2) wykorzystywały serwery i centra przetwarzania danych zlokalizowane wyłącznie na terytorium Rzeczypospolitej Polskiej lub państw Unii Europejskiej;\n3) uwzględniały zasadę proporcjonalności technologicznej, gwarantując zdolność do bezpiecznego przejścia w podstawowy tryb pracy wyspowej w przypadku utraty łączności z serwerem centralnym, a w odniesieniu do jednostek o znaczeniu krytycznym i mocy powyżej 1 MW – posiadały funkcję autonomicznego, zdecentralizowanego sterowania brzegowego, umożliwiającego optymalizację pracy"
+      },
+      {
+        "id": "art_33",
+        "number": "Art. 33",
+        "content": "1. Wnioskuje się o ustawowe zdefiniowanie i uruchomienie „Lokalnych Rynków Energii” działających w obrębie obszaru zasilania jednego Głównego Punktu Zasilającego.\n2. Postuluje się wprowadzenie dedykowanej, preferencyjnej taryfy dystrybucyjnej dla wirtualnego handlu energią wewnątrz LRE. Taryfa ta powinna być pomniejszona o koszty przesyłu i dystrybucji na wyższych poziomach napięć, proporcjonalnie do faktycznego odciążenia Krajowego Systemu Elektroenergetycznego przez lokalne bilansowanie.\n3. Wnioskuje się o całkowite zwolnienie energii w pełni zbilansowanej w ramach LRE z podatku akcyzowego oraz proporcjonalną redukcję opłaty mocowej i kogeneracyjnej, co radykalnie zwiększy opłacalność inwestycji w lokalne źródła. Jednocześnie zachowanie opłat za korzystanie z lokalnej infrastruktury niskiego i średniego napięcia zagwarantuje operatorom środki na niezbędną modernizację sieci i utrzymanie ostatecznego bufora bezpieczeństwa."
+      },
+      {
+        "id": "art_34",
+        "number": "Art. 34",
+        "content": "1 Postuluje się wdrożenie krajowego Rejestru Gwarancji Pochodzenia dla biometanu produkowanego w ramach gminnych hubów i zatłaczanego do krajowej sieci gazowej, w pełni kompatybilnego z systemami państw Unii Europejskiej.\n2. Wnioskuje się, aby przedsiębiorstwa energochłonne miały możliwość wirtualnego zakupu biometanu wyprodukowanego przez rolników i samorządy, co pozwoli tym zakładom na obniżenie śladu węglowego i redukcję kosztów ponoszonych w ramach unijnego systemu handlu emisjami."
+      },
+      {
+        "id": "art_35",
+        "number": "Art. 35",
+        "content": "1. Wnioskuje się o utworzenie ram prawnych dla nowego instrumentu finansowania inwestycji samorządowych pod nazwą „Gminne Obligacje Energetyczne”, dedykowanego budowie lokalnej infrastruktury wytwórczej oraz stabilizującej KSE.\n2. W celu stymulacji partycypacji finansowej mieszkańców i budowy społecznej akceptacji dla infrastruktury energetycznej na poziomie lokalnym, postuluje się wprowadzenie następujących mechanizmów wspierających dla ww. instrumentu:\n1) objęcie przychodów z Gminnych Obligacji Energetycznych zwolnieniem z zryczałtowanego podatku dochodowego od zysków kapitałowych dla inwestorów indywidualnych;\n2) ustanowienie mechanizmu gwarancyjnego zabezpieczającego wyemitowane obligacje ze strony państwowych funduszy celowych, w tym Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej lub Banku Gospodarstwa Krajowego.\n3. Postuluje się ponadto wdrożenie modelu hybrydowej obsługi zobowiązań z tytułu wyemitowanych Gminnych Obligacji Energetycznych. Model ten powinien gwarantować obligatariuszowi prawo wyboru formy zysku pomiędzy klasyczną wypłatą odsetek kapitałowych a wirtualną dywidendą energetyczną, realizowaną poprzez proporcjonalne pomniejszenie kosztów zakupu energii w ramach lokalnej spółdzielni energetycznej lub bezpośrednio od operatora."
+      }
+    ]
+  },
+  {
+    "id": "ch_5",
+    "title": "Rozdział 5. Postanowienia końcowe",
+    "articles": [
+      {
+        "id": "art_36",
+        "number": "Art. 36",
+        "content": "Zobowiązuje się Zespół Organizacyjny, Prezydium Parlamentu oraz Parlamentarzystki i Parlamentarzystów Parlamentu Młodych Rzeczypospolitej Polskiej do przekazania niniejszej uchwały:\n1) Prezydentowi Rzeczypospolitej Polskiej;\n2) Prezesowi Rady Ministrów;\n3) ministrowi właściwemu do spraw klimatu;\n4) ministrowi właściwemu do spraw rolnictwa i rozwoju wsi;\n5) ministrowi właściwemu do spraw wewnętrznych;\n6) ministrowi właściwemu do spraw obrony narodowej;\n7) ministrowi właściwemu do spraw finansów;\n8) ministrowi właściwemu do spraw aktywów państwowych;\n9) Dyrektorowi Rządowego Centrum Bezpieczeństwa;\n10) Prezesowi Narodowego Funduszu Ochrony Środowiska i Gospodarki Wodnej;\n11) Prezesowi Agencji Restrukturyzacji i Modernizacji Rolnictwa;\n12) ogólnopolskim organizacjom samorządowym, w szczególności Związkowi Gmin Wiejskich Rzeczypospolitej Polskiej oraz Związkowi Miast Polskich;\n13) Posłom na Sejm Rzeczypospolitej Polskiej oraz Senatorom Rzeczypospolitej Polskiej;\n14) Polskim Posłom do Parlamentu Europejskiego."
+      },
+      {
+        "id": "art_37",
+        "number": "Art. 37",
+        "content": "Uchwała wchodzi w życie z dniem podjęcia."
+      }
+    ]
+  }
+]
