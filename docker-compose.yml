@@ -27,7 +27,7 @@ services:
       context: ../mparlament-backend
       args:
         FRONTEND_SLUG: Macions/mparlament
-        FRONTEND_REF: v1.0.93
+        FRONTEND_REF: v1.0.122
     container_name: mparlament-backend
     expose:
       - "4000"
@@ -35,9 +35,13 @@ services:
       MPARLAMENT_PUBLIC_ORIGIN: https://parlamentmlodych.pl
       MPARLAMENT_JWT_SECRET: oEanhNDikecv01ZVJwL95UPAIQtWl7TGRqpKfubgHr8xdBs3jzSC6y2mFXMYO4
       MPARLAMENT_SEED_ON_START: "false"
+      MPARLAMENT_SCHEDULER: "off"
+      MAINTENANCE_MODE: "true"
+      MAINTENANCE_MESSAGE: "System jest w przebudowie. Wrócimy z nową, lepszą wersją."
     volumes:
       - mparlament-data:/app/data
       - mparlament-uploads:/app/uploads
+      - ../mparlament-backend/src:/app/src
     restart: unless-stopped
 
   # ═══════════════ NGINX ═══════════════

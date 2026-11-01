@@ -1,0 +1,196 @@
+[
+  {
+    "id": "ch_1",
+    "title": "Rozdział 1. Decentralizacja rynku energetycznego",
+    "articles": [
+      {
+        "id": "art_1",
+        "number": "Art. 1",
+        "content": "1. Postuluje się o podjęcie przez Radę Ministrów prac legislacyjnych zmierzających do wprowadzenia do polskiego systemu energoelektrycznego mechanizmów bezpośredniego obrotu energią elektryczną w modelu peer-to-peer, umożliwiającego prosumentom bezpośrednią sprzedaż nadwyżek energii elektrycznej wytworzonej w instalacjach odnawialnych źródeł energii na rzecz innych odbiorców końcowych zlokalizowanych w tym samym węźle sieci dystrybucyjnej, z pominięciem tradycyjnego podmiotu sprzedającego energię elektryczną.\n2. Postuluje się, aby ramy prawne, o których mowa w ust. 1, uwzględniały w szczególności:\n1) dopuszczenie do obrotu prawnie wiążącego rozliczeń dokonywanych z wykorzystaniem technologii rozproszonych rejestrów (blockchain), zapewniających kryptograficzne zabezpieczenie danych, nienaruszalność zapisów oraz automatyzację procesów rozliczeniowych w czasie rzeczywistym;\n2) uregulowanie statusu prawnego zautomatyzowanych protokołów rozliczeniowych (inteligentnych kontraktów), służących do bieżącego bilansowania ilości energii elektrycznej wytworzonej, wprowadzonej do sieci i zużytej;\n3) nałożenie na operatorów systemów dystrybucyjnych obowiązku zapewnienia infrastruktury technicznej niezbędnej do funkcjonowania zdecentralizowanych mechanizmów obrotu energią."
+      },
+      {
+        "id": "art_2",
+        "number": "Art. 2",
+        "content": "1. Postuluje się o podjęcie prac legislacyjnych nad projektem ustawy o wirtualnych elektrowniach, mającej na celu stworzenie kompleksowych ram prawnych dla rozwoju zdecentralizowanych systemów energetycznych z aktywnym udziałem prosumentów i odbiorców końcowych\n2. Ramy prawne, o których mowa w ust. 1, powinny w szczególności;\n1) zdefiniować i uregulować działalność agregatów, umożliwiając zdalne zarządzania rozproszonymi zasobami gospodarst domowych, w tym mikroinstalacjami odnawialnych źródeł energii, magazynami enerigii, pompami ciepła oraz pojazdami elektrycznymi, w celu utworzenia wirtualnych jednostek wytwórczych lub odbiorczych;\n2) umożliwić świadczenie przez wirtualne elektrownie usług systemowych i dystrybucyjnych, w tym bilansowanie sieci w momentach szczytowego zapotrzebowania lub nadmiaru energii, jako efektywną alternatywę dla budowy nowych elektrowni szczytowych;\n3) wprowadzić mechanizmy regulacyjne pozwalające na agregację zasobów prosumentów i ich udział na rynkach energii bez nieuzasadnionego, podwójnego obciążania tych zasobów opłatami dystrybucyjnymi, w celu zapewnienia ekonomicznej zasadności takich rozwiązań\n4) zobowiązać operatorów systemów dystrybucyjnych do zapewnienia interoperacyjności systemów pomiarowych i sterujących z certyfikowanymi platformami agregatów, w celu efektywnego łączenia rozproszonych źródeł energii w zintegrowany byt systemowy, minimalizując konieczność rozbudowy infrastruktury przemysłowej."
+      }
+    ]
+  },
+  {
+    "id": "ch_2",
+    "title": "Rozdział 2. Energetyka jądrowa oraz małe reaktory modułowe",
+    "articles": [
+      {
+        "id": "art_3",
+        "number": "Art. 3",
+        "content": "1. Parlament Młodych Rzeczypospolitej Polskiej pozytywnie ocenia proces powstawania Elektrowni Jądrowej ,,Lubiatowo-Kopalino” jako kluczowy element w zagwarantowaniu bezpieczeństwa energetycznego Rzeczypospolitej Polskiej.\n2. Postulujemy, aby elektrownie jądrowe były budowane i eksploatowane wyłącznie przez podmioty będące Spółkami Skarbu Państwa."
+      },
+      {
+        "id": "art_4",
+        "number": "Art. 4",
+        "content": "1. Postulujemy o wskazanie lokalizacji budowy drugiej elektrowni jądrowej w Polsce do 1 stycznia 2027 roku.\n2. Postulujemy o wskazanie lokalizacji budowy trzeciej elektrowni jądrowej w Polsce do 1 stycznia 2029 roku.\n3. Proponujemy, aby druga i trzecia elektrownia jądrowa w Polsce powstała na terenach elektrowni węglowych. Proponowane lokalizacje to Bełchatów (województwo łódzkie) oraz Konin (województwo wielkopolskie)."
+      },
+      {
+        "id": "art_5",
+        "number": "Art. 5",
+        "content": "1. Postulujemy o powołanie Programu Przekwalifikowania Pracowników Sektora Energetyki Konwencjonalnej na Sektor Energetyki Jądrowej, którego celem będzie przekwalifikowanie pracowników sektora górniczego lub sektora energetyki konwencjonalnej do pracy w sektorze energetyki jądrowej.\n2. Program obejmuje w szczególności:\n1) finansowanie szkoleń zawodowych;\n2) finansowanie kursów specjalistycznych;\n3) stypendia szkoleniowe;\n4) finansowanie egzaminów i certyfikacji;\n5) staże i praktyki w przedsiębiorstwach sektora energetycznego;\n6) wsparcie dla osób zmieniających miejsce zatrudnienia;\n7) współpracę ze szkołami branżowymi, uczelniami i instytutami badawczymi.\n3. Pracownik sektora górniczego lub energetyki konwencjonalnej, który spełni wymagane kryteria, uzyskuje finansowane ze środków publicznych szkolenie, którego celem jest uzyskanie kwalifikacji przydatnych w sektorze energetyki jądrowej.\n4. Wspomniane w ust. 3 kryteria to:\n1) rezygnacja z pracy w sektorze energetyki konwencjonalnej;\n2) wyrażenie chęci przekwalifikowania się z pracy w sektorze energetyki konwencjonalnej na pracę w sektorze energetyki jądrowej.\n5. W programie pierwszeństwo przyznaje się osobom zatrudnionym w elektrowniach węglowych kontrolowanych przez Skarb Państwa.\n6. Program wchodzi w życie na rok przed dopuszczeniem do pracy pierwszej elektrowni jądrowej lub pierwszego małego reaktora modułowego"
+      },
+      {
+        "id": "art_6",
+        "number": "Art. 6",
+        "content": "1. Postulujemy o określenie zasad przygotowania, finansowania, budowy oraz rozwoju małych reaktorów modułowych (skrót ,,SMR”) jako kluczowego elementu transformacji energetycznej i bezpieczeństwa energetycznego Rzeczypospolitej Polskiej.\n2. Małe reaktory modułowe powinny być wykorzystywane w szczególności do:\n1) wytwarzania energii elektrycznej;\n2) wytwarzania ciepła systemowego;\n3) wytwarzania ciepła technologicznego;\n4) produkcji pary technologicznej;\n5) produkcji wodoru;\n6) innych zastosowań przemysłowych oraz naukowych zgodnych z przepisami dotyczącymi bezpieczeństwa jądrowego."
+      },
+      {
+        "id": "art_7",
+        "number": "Art. 7",
+        "content": "1. Postulujemy, aby małe reaktory modułowe były budowane i eksploatowane przez:\n1) podmioty, w których Skarb Państwa posiada częściowe lub całkowite udziały,\n2) jednostki samorządu terytorialnego.\n2. Utrata przez Skarb Państwa kontroli nad podmiotem eksploatującym mały reaktor modułowy wymaga zgody wyrażonej w ustawie.\n3. Utrata przez jednostkę samorządu terytorialnego kontroli nad małym reaktorem modułowym wymaga zgody wyrażonej w ustawie."
+      },
+      {
+        "id": "art_8",
+        "number": "Art. 8",
+        "content": "1. Podmiot planujący budowę małego reaktora modułowego powinien wystąpić do Państwowej Agencji Atomistyki o przeprowadzenie wstępnej oceny technologii.\n2. Wstępna ocena technologii powinna zostać przeprowadzona przed wyborem konkretnej lokalizacji.\n3. Ocena obejmuje w szczególności:\n1) konstrukcję reaktora;\n2) systemy bezpieczeństwa;\n3) systemy chłodzenia;\n4) systemy sterowania;\n5) ochronę fizyczną;\n6) cyberbezpieczeństwo;\n7) gospodarkę paliwem jądrowym;\n8) postępowanie z odpadami promieniotwórczymi;\n9) rozwiązania dotyczące awarii projektowych i rozszerzonych warunków projektowych.\n4. W przypadku pozytywnego wyniku oceny, o której mowa w ust. 1, Prezes Państwowej Agencji Atomistyki jest zobowiązany do wydania decyzji zatwierdzającej projekt technologiczny małego reaktora modułowego, zwanego ,,certyfikatem typu SMR”.\n5. Certyfikat typu SMR określa:\n1) zakres zatwierdzonego projektu;\n2) wymagania dotyczące zastosowania projektu;\n3) dopuszczalne modyfikacje;\n4) warunki zastosowania projektu w różnych lokalizacjach.\n6. Projekt małego reaktora modułowego posiadający certyfikat typu SMR może być wykorzystany przy budowie więcej niż jednej instalacji.\n7. W postępowaniu dotyczącym kolejnej instalacji nie przeprowadza się ponownie oceny elementów projektu objętych certyfikatem, jeżeli:\n1) projekt nie został zmieniony;\n2) lokalizacja spełnia wymagania bezpieczeństwa;\n3) nie wystąpiły nowe okoliczności mogące mieć wpływ na bezpieczeństwo.\n8. Prezes Państwowej Agencji Atomistyki może wykorzystywać wyniki ocen bezpieczeństwa i dokumentację przygotowaną przez organy dozoru jądrowego innych państw, zwłaszcza państw przechodzących transformację energetyczną. Wykorzystanie zagranicznych ocen nie zwalnia z obowiązku zapewnienia zgodności instalacji z prawem Rzeczypospolitej Polskiej i prawem Unii Europejskiej.\n9. Postulujemy, aby przy wyborze lokalizacji małego reaktora modułowego szczególnie uwzględniać możliwość wykorzystania istniejącej:\n1) infrastruktury energetycznej;\n2) infrastruktury przemysłowej;\n3) infrastruktury ciepłowniczej;\n4) infrastruktury przesyłowej;\n5) infrastruktury terenów poprzemysłowych i pogórniczych."
+      },
+      {
+        "id": "art_10",
+        "number": "Art. 10",
+        "content": "1. Małe Reaktory Modułowe o strategicznym znaczeniu dla bezpieczeństwa energetycznego Rzeczypospolitej Polskiej mogą uzyskać status Strategicznej Inwestycji Energetyki Jądrowej.\n2. Status, wspomniany w ust. 1, przyznaje minister właściwy do spraw energii w drodze rozporządzenia."
+      },
+      {
+        "id": "art_11",
+        "number": "Art. 11",
+        "content": "1. Postulujemy, aby podmiot odpowiedzialny za budowę małego reaktora modułowego, został zobowiązany do przedstawienia analizy możliwości wykorzystania ciepła wytwarzanego przez małe reaktory modułowe.\n2. Ciepło może być wykorzystywane w szczególności na potrzeby:\n1) miejskich systemów ciepłowniczych;\n2) przemysłu;\n3) infrastruktury publicznej;\n4) produkcji wodoru;\n5) innych procesów przemysłowych.\n3. Państwo i jednostki samorządu terytorialnego są zobowiązane do dostosowania infrastruktury służącej wykorzystaniu ciepła z SMR."
+      },
+      {
+        "id": "art_12",
+        "number": "Art. 12",
+        "content": "1. Podmiot odpowiedzialny za budowę małego reaktora modułowego jest zobowiązany do przeprowadzenia konsultacji społecznych ze społecznością lokalną.\n2. Konsultacje, o których mowa w ust. 1, powinny obejmować w szczególności:\n1) wpływ inwestycji na środowisko;\n2) bezpieczeństwo mieszkańców;\n3) infrastrukturę lokalną;\n4) zatrudnienie;\n5) wykorzystanie ciepła;\n6) rozwój lokalny.\n3. Postulujemy, aby powołać Lokalny Fundusz Rozwoju, którego celem jest wspieranie inwestycji na rzecz lokalnej społeczności.\n4. Środki Fundusz mogą zostać przeznaczone m.in. na:\n1) transport publiczny;\n2) ochronę zdrowia;\n3) edukację;\n4) mieszkalnictwo;\n5) infrastrukturę komunalną;\n6) ochronę środowiska;\n7) rozwój lokalnego rynku pracy."
+      },
+      {
+        "id": "art_13",
+        "number": "Art. 13",
+        "content": "Państwowa Agencja Atomistyki oraz minister właściwy do spraw energii są odpowiedzialni za kontrolowanie procesu powstawania oraz funkcjonowania małych reaktorów modułowych."
+      }
+    ]
+  },
+  {
+    "id": "ch_3",
+    "title": "Rozdział 3. Energetyka słoneczna oraz niezależność energetyczna",
+    "articles": [
+      {
+        "id": "art_14",
+        "number": "Art. 14",
+        "content": "1. Zapewnienie niezależności energetycznej budynkom, rozumianej jako zdolność obiektu do pokrycia całkowitego zapotrzebowania na energię, powinno stanowić jeden z kluczowych priorytetów polskiej polityki energetycznej.\n2. Niezależność energetyczna, wspomniana w ust. 1, powinna zostać osiągnięta poprzez wyposażenie budynków w:\n1) magazyny energii,\n2) panele słoneczne."
+      },
+      {
+        "id": "art_15",
+        "number": "Art. 15",
+        "content": "1. Postulujemy o wprowadzenie przepisów wprowadzających obowiązek wyposażenia budynków, oddanych do użytku po 1 stycznia 2028 roku, w magazyny energii oraz panele słoneczne, o mocy gwarantującej częściową niezależność energetyczną budynku.\n2. Obowiązkiem, o którym jest mowa w ust. 1., zobowiązane są budynki:\n1) mieszkalne,\n2) użyteczności publicznej,\n3) zakłady pracy.\n3. Z przepisów zwolnione są budynki, które mają status zabytku."
+      },
+      {
+        "id": "art_16",
+        "number": "Art. 16",
+        "content": "1. Postulujemy, aby do 1 stycznia 2033 roku, każdy budynek użyteczności publicznej, oddany do użytku przed 1 stycznia 2028 roku, został wyposażony w magazyn energii oraz panele słoneczne o mocy gwarantującej częściową niezależność energetyczną budynku.\n2. Postulujemy, aby do 1 stycznia 2038 roku, każdy budynek zakładu pracy, oddany do użytku przed 1 stycznia 2028 roku, został wyposażony w magazyn energii oraz panele słoneczne o mocy gwarantującej częściową niezależność energetyczną budynku.\n3. Postulujemy, aby do 1 stycznia 2043 roku, każdy budynek o charakterze mieszkalnym, oddany do użytku przed 1 stycznia 2028 roku, został wyposażony w magazyn energii oraz panele słoneczne o mocy gwarantującej częściową niezależność energetyczną budynku."
+      },
+      {
+        "id": "art_17",
+        "number": "Art. 17",
+        "content": "1. Postuluje się o wprowadzenie programu wsparcia finansowego w zakresie wyposażania budynków mieszkalnych, których dotyczą regulacje z ust. 1 art. 15., w magazyny energii oraz panele słoneczne.\n2. Beneficjentami programu wspomnianego w ust. 1 są osoby fizyczne lub gospodarstwa domowe które nie kwalifikują się do korzystniejszych programów wsparcia dotyczących wyposażania budynków w magazyny energii lub panele słoneczne."
+      },
+      {
+        "id": "art_18",
+        "number": "Art. 18",
+        "content": "1. Postulujemy uchwalenie Strategii Niezależności Energetycznej Regionów, której celem będzie zwiększenie samowystarczalności energetycznej poszczególnych regionów Polski poprzez efektywne wykorzystanie lokalnych źródeł energii odnawialnej do produkcji energii elektrycznej i cieplnej.\n2. Do źródeł odnawialnych, o których mowa w ust. 1, szczególnie wliczamy:\n1) słońce,\n2) wiatr,\n3) wodę."
+      },
+      {
+        "id": "art_19",
+        "number": "Art. 19",
+        "content": "1. Postuluje się o utworzenie regulacji oraz uproszczenia ram prawnych oraz administracyjnych dla lokalizowania i eksploatacji instalacji fotowoltaicznych posadowionych na konstrukcjach pływających.\n2. Regulacje oraz uproszczenia, przytoczone w ust. 1 miałyby obejmować:\n1) wprowadzenie do przepisów prawa budowlanego i ochrony środowiska uproszczonych procedur administracyjnych dla inwestycji fotowoltaicznych realizowanych na sztucznych zbiornikach wodnych, stawach oraz wyrobiskach górniczych;\n2) uwzględnienia w systemach wsparcia odnawialnych źródeł energii (w tym w mechanizmach aukcyjnych) premii lokalizacyjnej dla instalacji pływających, uzasadnionej ich podwyższoną efektywnością wytwórczą wynikającą z naturalnego chłodzenia modułów przez akwen;\n3) opracowania przez właściwe organy administracji rządowej wytycznych techniczno środowiskowych, które zapewnią, że konstrukcje pływające i materiały, z których będą wykonane, będą w pełni obojętne dla ekosystemu wodnego."
+      }
+    ]
+  },
+  {
+    "id": "ch_4",
+    "title": "Rozdział 4. Dekarbonizacja energetyki oraz aktywizacja zawodowa byłych pracowników sektora górniczego",
+    "articles": [
+      {
+        "id": "art_20",
+        "number": "Art. 20",
+        "content": "1. Postulujemy, aby z dniem 1 stycznia 2027 roku, zamknąć nabór na stanowiska pracownicze w sektorze górniczym.\n2. Od terminu wskazanego w ust. 1, zakazane jest zatrudnianie nowych pracowników w sektorze górniczym."
+      },
+      {
+        "id": "art_21",
+        "number": "Art. 21",
+        "content": "1. Postuluje się wprowadzenie obowiązku przeprowadzenia, przed podjęciem decyzji o zasypaniu zamykanego szybu kopalnianego, niezależnej analizy możliwości jego ponownego wykorzystania do celów energetycznych, przemysłowych lub innych gospodarczo uzasadnionych zastosowań.\n2. Analiza powinna obejmować w szczególności możliwość wykorzystania szybu:\n1) do budowy magazynu energii, w szczególności wykorzystującego technologię grawitacyjną;\n2) do magazynowania energii cieplnej;\n3) na potrzeby infrastruktury energetycznej;\n4) do innych zastosowań uzasadnionych technicznie i ekonomicznie.\n3. Przy ocenie możliwości ponownego wykorzystania szybu uwzględnia się w szczególności:\n1) jego stan techniczny;\n2) głębokość, konstrukcję i inne parametry techniczne;\n3) możliwość wykorzystania istniejącej infrastruktury pogórniczej;\n4) możliwą moc i pojemność instalacji, jeżeli analizowane zastosowanie obejmuje magazynowanie energii;\n5) koszty przystosowania i późniejszej eksploatacji;\n6) przewidywany okres eksploatacji;\n7) możliwość przyłączenia planowanej instalacji do systemu elektroenergetycznego;\n8) przewidywane korzyści gospodarcze i energetyczne dla regionu.\n4. W przypadku stwierdzenia technicznej i ekonomicznej zasadności ponownego wykorzystania szybu jego zasypanie powinno zostać wstrzymane na czas niezbędny do przeprowadzenia szczegółowej oceny inwestycji oraz podjęcia decyzji o jej realizacji.\n5. Projekty wykorzystania infrastruktury pogórniczej, które uzyskały pozytywny wynik analizy, powinny mieć możliwość uzyskania wsparcia publicznego na przygotowanie dokumentacji technicznej, przeprowadzenie dodatkowych badań oraz realizację projektów pilotażowych.\n6. Ponowne wykorzystanie infrastruktury pogórniczej powinno stanowić jeden z elementów sprawiedliwej transformacji regionów górniczych, służący wykorzystaniu istniejącego majątku, rozwojowi nowych inwestycji energetycznych i przemysłowych oraz tworzeniu nowych miejsc pracy."
+      },
+      {
+        "id": "art_22",
+        "number": "Art. 22",
+        "content": "1 Postuluje się utworzenie Programu Aktywizacji i Przekwalifikowania Pracowników Sektora Górniczego, skierowanego do pracowników, których miejsca pracy zostaną zlikwidowane w związku z transformacją energetyczną.\n2. W ramach programu pracownik powinien mieć możliwość wyboru jednej z dwóch ścieżek dalszego zatrudnienia:\n1) podjęcia pracy w sektorach związanych z transformacją energetyczną;\n2) przekwalifikowania i podjęcia pracy w innych sektorach gospodarki.\n3. W ramach ścieżki, o której mowa w ust. 2 pkt 1, zapewnia się możliwość podjęcia zatrudnienia w szczególności przy:\n1) budowie, montażu i utrzymaniu instalacji odnawialnych źródeł energii;\n2) modernizacji i rozbudowie sieci elektroenergetycznych;\n3) budowie i obsłudze magazynów energii;\n4) rekultywacji i zagospodarowaniu terenów pogórniczych;\n5) modernizacji infrastruktury ciepłowniczej;\n6) innych inwestycjach związanych z transformacją energetyczną.\n4. Pracownikom korzystającym ze ścieżki, o której mowa w ust. 2 pkt 1, zapewnia się bezpłatne szkolenia i możliwość przekwalifikowania zawodowego, dostosowane do ich dotychczasowych kwalifikacji oraz zapotrzebowania na pracowników w danym regionie.\n5. W przypadku inwestycji energetycznych finansowanych lub współfinansowanych ze środków publicznych pierwszeństwo w zatrudnieniu, przy spełnieniu wymagań niezbędnych na danym stanowisku, powinno przysługiwać pracownikom objętym programem.\n6. W ramach ścieżki, o której mowa w ust. 2 pkt 2, pracownik może skorzystać z bezpłatnego przekwalifikowania zawodowego oraz indywidualnego doradztwa zawodowego w celu podjęcia zatrudnienia w innym sektorze gospodarki.\n7. Pracodawca, który zatrudni na podstawie umowy o pracę osobę objętą programem, może otrzymać dofinansowanie kosztów szkolenia lub zdobycia przez pracownika kwalifikacji niezbędnych do wykonywania nowej pracy.\n8. Osobom objętym programem zapewnia się pomoc w znalezieniu zatrudnienia, w szczególności poprzez pośrednictwo pracy, doradztwo zawodowe oraz współpracę z pracodawcami prowadzącymi działalność w regionach objętych transformacją energetyczną.\n9. Celem programu jest zapewnienie pracownikom sektora górniczego możliwości płynnego przejścia do nowego zatrudnienia, wykorzystanie ich dotychczasowych kwalifikacji oraz przeciwdziałanie trwałemu bezrobociu, degradacji ekonomicznej i wykluczeniu społecznemu w regionach górniczych."
+      }
+    ]
+  },
+  {
+    "id": "ch_5",
+    "title": "Rozdział 5. Energetyka wiatrowa",
+    "articles": [
+      {
+        "id": "art_23",
+        "number": "Art. 23",
+        "content": "1. Postulujemy, aby odległość turbiny wiatrowej od budynku mieszkalnego albo budynku o funkcji mieszkalnej nie wynosiła mniej niż 500 m.\n2. Odległość, o której mowa w ust. 1, mierzy się od granicy terenu przeznaczonego pod lokalizację elektrowni wiatrowej do najbliższej krawędzi budynku mieszkalnego albo budynku o funkcji mieszkalnej.\n3. Przepisów dotyczących minimalnej odległości elektrowni wiatrowej od budynku mieszkalnego nie stosuje się w zakresie, w jakim przepisy odrębne ustanawiają większą odległość ze względu na wymagania ochrony środowiska, bezpieczeństwa lub ochrony zdrowia.\n4. Przy planowaniu lokalizacji elektrowni wiatrowych uwzględnia się w szczególności:\n1) warunki wietrzne;\n2) dostępność infrastruktury elektroenergetycznej;\n3) uwarunkowania środowiskowe;\n4) istniejącą infrastrukturę przemysłową i transportową;\n5) potrzeby energetyczne regionu.\n5. W szczególności analizuje się możliwość rozwoju energetyki wiatrowej na obszarach o korzystnych warunkach wietrznych, w tym na Pomorzu Środkowym, w pasie pobrzeży, na Pojezierzu Suwalskim, Nizinie Wielkopolskiej oraz Nizinie Mazowieckiej, z uwzględnieniem ograniczeń wynikających z przepisów o ochronie przyrody i zagospodarowaniu przestrzennym.\n6. Zasięg obszaru objętego mechanizmem partycypacji społeczności lokalnej ustala się w promieniu 750 m od elektrowni wiatrowej.\n7. Wysokość środków przekazywanych na fundusz partycypacji społeczności lokalnej wynosi 12 000 zł za każdy 1 MW mocy zainstalowanej elektrowni wiatrowej, na zasadach określonych w przepisach odrębnych.\n8. Środki funduszu partycypacji społeczności lokalnej przeznacza się w szczególności na rozwój infrastruktury lokalnej, poprawę efektywności energetycznej, transport publiczny oraz przedsięwzięcia służące mieszkańcom obszaru objętego funduszem."
+      }
+    ]
+  },
+  {
+    "id": "ch_6",
+    "title": "Rozdział 6. Linie przesyłowe",
+    "articles": [
+      {
+        "id": "art_24",
+        "number": "Art. 24",
+        "content": "1. Postuluje się o przyjęcie przez Radę Ministrów programu Strategicznego Rozwoju Krajowej Sieci Przesyłowej Północ-Południe, którego celem będzie wzmocnienie linii najwyższych napięć 400kV poprzez ich modernizację oraz rozbudowę w osi północ-południe\n2. Realizacja tego programu ma na celu:\n1) zapewnienie zdolności przesyłowych umożliwiających transport nadwyżek energii elektrycznej wytworzonej ze źródeł odnawialnych, w tym morskich farm wiatrowych na Morzu Bałtyckim, do południowych rejonów przemysłowych;\n2) umożliwienie bezpiecznego wyłączenia i likwidacji jednostek wytwórczych opartych na paliwach kopalnych, zlokalizowanych w południowej części kraju, bez zagrożenia dla bezpieczeństwa dostaw energii;\n3) zwiększenie przepustowości istniejących i planowanych korytarzy przesyłowych do poziomu odpowiadającego standardom ultra wysokich napięć (UHV), przy zastosowaniu zaawansowanych technologii dostosowanych do uwarunkowań przestrzennych i środowiskowych Rzeczypospolitej Polskiej\n3. Inwestycje w celu realizacji programu, o którym mowa w ust. 1, miałby obejmować:\n1) budowę nowy torów linii 400 kV wzdłuż istniejących korytarzy przesyłowych;\n2) zastosowanie technologii przewodów wysokotemperaturowych (HTLS) oraz zaawansowanych systemów kompensacji mocy (FACTS) w celu maksymalizacji mocy przesyłowej bez konieczności zajmowania nowych terenów pod infrastrukturę;\n3) rozbudowę stacji elektroenergetycznych najwyższych napięć w węzłach północnych i południowych."
+      }
+    ]
+  },
+  {
+    "id": "ch_7",
+    "title": "Rozdział 7. Biogaz",
+    "articles": [
+      {
+        "id": "art_25",
+        "number": "Art. 25",
+        "content": "Biogazownia jest instalacją służącą do wytwarzania biogazu w wyniku procesu fermentacji beztlenowej biomasy. Procesom fermentacyjnym podlegać mogą odpady komunalne, produkty rolnicze, jak i produkty uboczne produkcji żywnościowej. Biogazownie są traktowane jako odnawialne i niskoemisyjne źródło energii."
+      },
+      {
+        "id": "art_26",
+        "number": "Art. 26",
+        "content": "1. Postuluje się powołanie programów mających na celu:\n1) Promocję idei biogazowni jako formy generowania energii elektrycznej dla podmiotów indywidualnych i zbiorowych, ze szczególnym wskazaniem na inwestorów w ramach spółdzielni;\n2) Poszerzenie społecznego zasobu wiedzy na temat biogazowni, ze szczególnym nastawieniem na podmioty potencjalnie zainteresowane ów rozwiązaniem;\n3) Stworzenie systemu wsparcia inwestycyjnego i operacyjnego dla instalacji biogazowych i biometanowych przy wykorzystaniu technologii biogazowni celem zwiększenia atrakcyjności ów rozwiązania poprzez obniżenie jej ceny rynkowej;\n4) Stworzenie programu celowych dopłat do budowy biogazowni na terenach wiejskich (w wypadku instalacji korzystających z produktów rolniczych), jak i miejskich (dla instalacji korzystających z odpadów komunalnych lub z oczyszczalni ścieków);\n5) Zwiększenie bezpieczeństwa i niezależności energetycznej kraju poprzez decentralizację i dywersyfikację produkcji energii elektrycznej, jak i wzrost potencjału wytwórczego gazu celem zapewnienia części popytu krajowego na ów surowiec;\n6) Rozszerzenie potencjału energii zainstalowanej w OZE, utylizując przy tym potencjał biogazowy jakim odznacza się Polska, przy jednoczesnym uproszczeniu procedur urzędniczych w owym aspekcie.\n2. Aby zrealizować powyższe cele w każdym urzędzie wojewódzkim powstać powinien punkt konsultacyjny ds. rozwoju biogazownictwa, który obsługiwany byłby przez specjalnie przeszkolonego pracownika urzędu. Zarazem powstać powinna odpowiednio szeroko zakrojona kampania informacyjno-promocyjna mająca na celu podniesienie świadomości społecznej na temat możliwości związanych z biogazownictwem. Powstać miałaby również strona internetowa będąca bazą łatwo dostępnej i przystępnej wiedzy na ww. temat.\n3. Program realizowany byłby w rozliczeniu trzyletnim pozwalając na to, aby dofinansowane instalacje zaczęły produkować energię."
+      }
+    ]
+  },
+  {
+    "id": "ch_8",
+    "title": "Rozdział 8. Ciepłownictwo",
+    "articles": [
+      {
+        "id": "art_27",
+        "number": "Art. 27",
+        "content": "1. Postuluje się o rozpoczęcie prac nad regulacjami, których zadaniem będzie tworzenie lokalnych klastrów produkcji odnawialnego wodoru poprzez budowę małych elektrolizerów zasilanych wyłącznie z dedykowanych instalacji wiatrowych lub fotowoltaicznych, w celu wykorzystania wyprodukowanego wodoru jako surowca przemysłowego lub paliwa w transporcie ciężkim, bezpośrednio w miejscu jego wytworzenia, bez konieczności jego transportu na duże odległości.\n2. Projektowane regulacje powinny traktować wspomniane wyżej lokalne instalacje elektrolizy oraz towarzyszące im systemy magazynowania wodoru jako element infrastruktury krytycznej odnawialnych źródeł energii, zwalniając je z podwójnego opodatkowania oraz upraszczając procedury koncesyjne, przy jednoczesnym umożliwieniu wykorzystania wodoru do sezonowego magazynowania energii poprzez jego konwersję w energię cieplną i elektryczną w okresach zwiększonego zapotrzebowania, w tym w systemach kogeneracyjnych."
+      }
+    ]
+  },
+  {
+    "id": "ch_9",
+    "title": "Rozdział 9. Postanowienia końcowe",
+    "articles": [
+      {
+        "id": "art_28",
+        "number": "Art. 28",
+        "content": "Zobowiązuje się Zespół Organizacyjny, Prezydium Parlamentu oraz wszystkie Parlamentarzystki i Parlamentarzystów Parlamentu Młodych Rzeczypospolitej Polskiej do przekazania niniejszej uchwały:\n1) Prezydentowi Rzeczypospolitej Polskiej;\n2) Marszałkowi Sejmu Rzeczypospolitej Polskiej;\n3) Marszałkini Senatu Rzeczypospolitej Polskiej;\n4) Prezesowi Rady Ministrów;\n5) ministrowi właściwemu do spraw energii,\n6) ministrowi właściwemu do spraw finansów,\n7) ministrowi właściwemu do spraw rodziny, pracy i polityki społecznej,\n8) ministrowi właściwemu do spraw gospodarki\n9) ministrowi właściwemu do spraw rozwoju regionalnego;\n10) ministrowi właściwemu do spraw cyfryzacji;\n11) ministrowi właściwemu do spraw nauki;\n12) ministrowi właściwemu do spraw rolnictwa i rozwoju wsi;\n13) posłankom i posłom na Sejm Rzeczypospolitej Polskiej oraz senatorkom i senatorom Rzeczypospolitej Polskiej,\n14) Prezesowi Państwowej Agencji Atomistyki."
+      },
+      {
+        "id": "art_29",
+        "number": "Art. 29",
+        "content": "Uchwała wchodzi w życie z dniem podjęcia."
+      }
+    ]
+  }
+]
