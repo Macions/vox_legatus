@@ -1,0 +1,105 @@
+version: "3.8"
+
+services:
+  # ═══════════════ STARY SYSTEM ═══════════════
+  backend:
+    build: ./vox_legatus
+    container_name: vox-legatus-backend
+    expose:
+      - "8000"
+    depends_on:
+      - db
+
+  db:
+    image: postgres:15-alpine
+    container_name: vox-legatus-db
+    restart: always
+    environment:
+      POSTGRES_USER: vox
+      POSTGRES_PASSWORD: legatus
+      POSTGRES_DB: vox_legatus_db
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    ports:
+      - "127.0.0.1:5432:5432"
+
+  # ═══════════════ NOWY SYSTEM ═══════════════
+  new-backend:
+    build:
+      context: ../mparlament-backend
+    container_name: mparlament-backend
+    expose:
+      - "4000"
+    environment:
+      MPARLAMENT_PUBLIC_ORIGIN: https://parlamentmlodych.pl
+      MPARLAMENT_JWT_SECRET: oEanhNDikecv01ZVJwL95UPAIQtWl7TGRqpKfubgHr8xdBs3jzSC6y2mFXMYO4
+      MPARLAMENT_DATABASE_URL: mysql+asyncmy://vox:SPxSblrMJ8umCfg6snPIlUPwa3LD4r0CsqC1uZpP@target-mariadb:3306/mparlament
+      MPARLAMENT_SEED_ON_START: "false"
+      MPARLAMENT_SCHEDULER: "off"
+      MAINTENANCE_MODE: "true"
+      MAINTENANCE_MESSAGE: "System jest w przebudowie. Wrócimy z nową, lepszą wersją."
+    volumes:
+      - mparlament-data:/app/data
+      - mparlament-uploads:/app/uploads
+      - ../mparlament-backend/src:/app/src
+    restart: unless-stopped
+
+  # ═══════════════ MARIADB + PHPMYADMIN (target) ═══════════════
+  target-mariadb:
+    image: mariadb:11
+    container_name: target-mariadb
+    restart: unless-stopped
+    environment:
+      MARIADB_DATABASE: mparlament
+      MARIADB_USER: vox
+      MARIADB_PASSWORD: SPxSblrMJ8umCfg6snPIlUPwa3LD4r0CsqC1uZpP
+      MARIADB_ROOT_PASSWORD: 8UKNH3ReKOyFlc2xuZ6cxacntGCCyF8W0aOujQUw
+    volumes:
+      - /srv/apps/db-tools/mariadb_data:/var/lib/mysql
+    ports:
+      - "127.0.0.1:3306:3306"
+
+  target-phpmyadmin:
+    image: phpmyadmin:latest
+    container_name: target-phpmyadmin
+    restart: unless-stopped
+    environment:
+      PMA_HOST: target-mariadb
+      PMA_PORT: 3306
+    ports:
+      - "127.0.0.1:8080:80"
+    depends_on:
+      - target-mariadb
+
+  # ═══════════════ NGINX ═══════════════
+  nginx:
+    image: nginx:stable
+    container_name: vox-legatus-nginx
+    ports:
+      - "80:80"
+      - "443:443"
+    volumes:
+      - /srv/apps/vox_legatus/static:/var/www/static:ro
+      - /srv/apps/vox_legatus/nginx/maintenance.html:/var/www/nginx/maintenance.html:ro
+      - ./nginx/default.conf:/etc/nginx/conf.d/default.conf
+      - ./nginx/certbot:/var/www/certbot
+      - certbot-etc:/etc/letsencrypt
+      - mparlament-uploads:/var/www/uploads
+    depends_on:
+      - backend
+      - new-backend
+      - target-mariadb
+
+  # ═══════════════ CERTBOT ═══════════════
+  certbot:
+    image: certbot/certbot
+    container_name: vox-legatus-certbot
+    volumes:
+      - certbot-etc:/etc/letsencrypt
+      - ./nginx/certbot:/var/www/certbot
+
+volumes:
+  pgdata:
+  certbot-etc:
+  mparlament-data:
+  mparlament-uploads:
